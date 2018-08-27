@@ -1,0 +1,19 @@
+footer.navbar-brand{
+	background-color: #fdffd4 !important;
+	width: 100% !important;
+	text-align: right !important;
+}
+div.navbar-header{
+	background-color: #fdffd4 !important;
+	width: 100% !important;
+}
+button.btn-block{
+	margin-top: 40px !important;
+} 
+/*
+body#background {
+  background-image: url("img/bg.jpg") !important;
+	width: 100% !important;
+	height: 100% !important;
+}
+*/
